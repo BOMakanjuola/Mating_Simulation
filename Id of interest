@@ -1,0 +1,14 @@
+The id of interest file to be provided should follow the below format and there should be no header line.
+The id of interest has two columns, the first column is the id of the animals of interest (include bulls and cows) 
+and the second column is the group or herd in which the animals are present.
+Example of id of interest: 
+Animal_A 0
+Animal_B 0
+Animal_C 113
+Animal_D 113
+Animal_E 113
+Animal_F 235
+Animal_G 235
+Animal_H 234
+Animal_I 0
+Animal_J 234
